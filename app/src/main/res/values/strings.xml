@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UmpireBuddy</string>
+
+    <string name="out_toast">Out!</string>
+    <string name="walk_toast">Walk!</string>
+
+    <string name="strike_String">Strike: </string>
+    <string name="ball_String">Ball: </string>
+
+    <string name="increment">increment</string>
+    <string name="decrement">decrement</string>
+
+    <string name="about">about</string>
+    <string name="reset">reset</string>
+</resources>
